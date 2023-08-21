@@ -117,4 +117,13 @@ var jedi = true
     // saque(701)
     // console.log(saldo)
 
-    
+console.log('Olá!')
+
+//Calcule a media de duas notas
+
+var nota1 = 2
+var nota2 = 10
+
+function media(nota1,nota2) {
+    console.log('A média é ' nota1 + nota2)
+}
